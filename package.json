@@ -1,0 +1,29 @@
+{
+  "name": "Data",
+  "version": "0.0.1",
+  "description": "Data service that powers WebRookies.org",
+  "main": "app.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebRookies/Data.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "26a7c42bfbf677c8d06aafde82e486331d29507c",
+  "dependencies" : {
+    "async" : "*",
+    "underscore" : "*",
+    "backbone" : "*",
+    "socket.io" : "*",
+    "handlebars" : "*",
+    "supercli" : "*",
+    "express" : "*",
+    "bcrypt" : "*",
+    "mocha" : "*",
+    "mongoose" : "*"
+  }
+}
